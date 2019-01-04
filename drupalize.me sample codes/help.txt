@@ -1,0 +1,17 @@
+menu_magic
+    Menu callback functions
+    Contextual links and Autoloaders
+    Attachment and caching with render API
+SPY_GLASS
+    Altering page array
+    Drupal theme system
+Demo 
+    Creating submitting and validating form
+    Organising collection of form elements
+    Creating dynamic form with states system
+    Customizing validation
+    Creating a configuration setting form
+Demo2
+    Creating table
+    Queuing a database with node_view example
+    Altering the database.
